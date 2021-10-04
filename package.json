@@ -1,0 +1,21 @@
+{
+  "name": "@wx2sistemas/teste",
+  "version": "1.0.0",
+  "description": "teste 01 teste 01",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wx2sistemas/teste.git"
+  },
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Fernando Matos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
